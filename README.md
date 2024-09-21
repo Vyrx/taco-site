@@ -1,3 +1,5 @@
+Tutorial based on https://github.com/gitdagray/html_course
+
 # "HTML Project for Beginners"
 
 ✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
